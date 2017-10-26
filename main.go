@@ -7,3 +7,6 @@
 
 package main
 
+// need main function so "go get" don't complain
+func main(){
+}
