@@ -20,3 +20,6 @@ The realtime documentation can be found [here](http://docs.beeswax.com/docs/abou
       <version>2017-07-12</version>
     </dependency>
 
+### Go generate
+To generate Go source from protobuf
+```go generate```
